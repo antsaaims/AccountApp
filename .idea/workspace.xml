@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea30cd6a-7d3d-41ba-b7fc-5a6e24728b47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1eJHtGYTHTXZrjF0PiZVJ27eJyJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea30cd6a-7d3d-41ba-b7fc-5a6e24728b47" name="Default Changelist" comment="" />
+      <created>1594032988601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594032988601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="183" width="1084" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594056497816">
+      <screen x="58" y="27" width="1222" height="997" />
+    </state>
+    <state x="127" y="183" width="1084" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog/58.27.1222.997@58.27.1222.997" timestamp="1594056497816" />
+    <state x="517" y="292" width="293" height="465" key="AndroidProcessChooserDialog" timestamp="1594056347118">
+      <screen x="58" y="27" width="1222" height="997" />
+    </state>
+    <state x="517" y="292" width="293" height="465" key="AndroidProcessChooserDialog/58.27.1222.997@58.27.1222.997" timestamp="1594056347118" />
+    <state x="158" y="160" key="SettingsEditor" timestamp="1594042449476">
+      <screen x="58" y="27" width="1222" height="997" />
+    </state>
+    <state x="158" y="160" key="SettingsEditor/58.27.1222.997@58.27.1222.997" timestamp="1594042449476" />
+    <state x="158" y="127" width="1022" height="797" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1594042249408">
+      <screen x="58" y="27" width="1222" height="997" />
+    </state>
+    <state x="158" y="127" width="1022" height="797" key="com.android.tools.idea.avdmanager.AvdListDialog/58.27.1222.997@58.27.1222.997" timestamp="1594042249408" />
+    <state x="329" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1594055904865">
+      <screen x="58" y="27" width="1222" height="997" />
+    </state>
+    <state x="329" y="353" key="com.intellij.ide.util.TipDialog/58.27.1222.997@58.27.1222.997" timestamp="1594055904865" />
+    <state x="333" y="240" key="run.anything.popup" timestamp="1594056362445">
+      <screen x="58" y="27" width="1222" height="997" />
+    </state>
+    <state x="333" y="240" key="run.anything.popup/58.27.1222.997@58.27.1222.997" timestamp="1594056362445" />
+  </component>
+</project>
